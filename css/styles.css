@@ -295,6 +295,7 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border-color: transparent;
+  cursor:pointer 
 }
 
 .button-hero:active {
@@ -769,6 +770,7 @@ img {
   background-color: var(--accent-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  cursor:pointer 
 }
 
 .subscribe-icon {
@@ -794,6 +796,7 @@ img {
   text-align: center;
   justify-content: center;
   margin-bottom: 50px;
+  cursor:pointer 
 }
 
 .nav-buttons .item:not(:last-child) {
@@ -814,6 +817,7 @@ img {
   border-color: transparent;
 
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor:pointer 
 }
 
 .buttons-portfolio:hover,
@@ -989,6 +993,7 @@ img {
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   background: #ffffff;
+  cursor:pointer 
 }
 
 .icon-close {
@@ -1179,6 +1184,7 @@ img {
   background-color: var(--accent-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  cursor:pointer 
 }
 
 .modal-button:active {
